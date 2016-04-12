@@ -1,0 +1,86 @@
+body {
+	background-color: #0099FF;
+}
+
+nav {
+	background-color: #00003B;
+	text-align: center;
+	margin-left: 6cm;	
+	margin-right: 0.5cm;
+	margin-top: 1cm;
+	border-radius: 0.2cm;
+}
+nav a{
+	padding-right: 0.3cm;
+	color: #FFFFFF;	
+	text-decoration: none;
+}
+
+img {
+	margin-top: -2.5cm;
+
+}
+input, select{
+	margin-left: 0.5cm;
+	margin-top: 0.1cm;
+}
+
+/*id tag CSS*/
+#main {
+	background-color: #FFFFFF;
+	margin-left: 15%;
+	margin-top: 0.2cm;
+	height: 16.5cm;
+	border-radius: 0.2cm;
+	width: 25cm;
+	position: center;
+}
+#head {
+	text-align: center;
+	font-size: 30px;
+	padding-top: 0.3cm;
+}
+
+#menu a {
+	text-decoration: none;
+}
+#menu {
+	margin-top: 4.5cm;
+	margin-left: 2cm;
+	width: 4cm;
+	position: absolute;
+}
+
+#link {
+	background-color: rgb(232,232,232);
+	margin-top: 1cm;
+	margin-bottom: 0.5cm;
+	padding: 0.1cm;
+	border-radius: 0.2cm;
+	border: solid;
+	border-color: #66CCFF;
+}
+#register {
+	background-color: rgb(204,255,0);
+	margin-top: -4.5cm;
+	margin-left: 73%;	
+	margin-right: 2cm;
+	width: 5cm;
+	border-radius: 0.3cm;
+}
+#form_hdr {
+	background-color: #00003B;
+	padding-left: 0.1cm;
+	height: 1cm;
+	border-radius: 0.2cm;
+	color: #FFFFFF;
+}
+
+#center {
+	margin-left: 6cm;
+	width: 12cm;
+	position: absolute;
+}
+#choices {
+	padding-top: 1cm;
+}
